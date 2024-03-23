@@ -47,7 +47,7 @@ interface Student {
 }
 
 const student: Student = {
-    name: "nemo",
+    name: "kamal",
     GPA: 3.5,
     classes: [100, 200]
 }
