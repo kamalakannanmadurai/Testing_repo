@@ -1,4 +1,4 @@
-let myName: string = 'Dave'
+let myName: string = 'Arun'
 let meaningOfLife: number;
 let isLoading: boolean;
 let album: any;
