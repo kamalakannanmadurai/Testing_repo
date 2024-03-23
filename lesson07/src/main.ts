@@ -20,7 +20,7 @@ const todaysTransactions: TransactionObj = {
 console.log(todaysTransactions.Pizza)
 console.log(todaysTransactions['Pizza'])
 
-let prop: string = 'Pizza'
+let prop: string = 'noodles'
 console.log(todaysTransactions[prop])
 
 const todaysNet = (transactions: TransactionObj): number => {
